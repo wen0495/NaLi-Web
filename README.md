@@ -1,30 +1,35 @@
 ## Welcome to Na Li Pages
 
-Na Li
-730 Stinson St. Apt #16201, Norman, OK • (405) 532	-6469 • Na.Li-1@ou.edu
+Address: 730 Stinson St. Apt #16201, Norman, OK 
+Contact Infomation:(405) 532	-6469 • Na.Li-1@ou.edu
 
 
 EDUCATION
-University of Oklahoma, Norman, OK					                Expected December 2019
+University of Oklahoma, Norman, OK					  Expected December 2019
 Bachelor of Business Administration
 Major:  Management Information Systems | Minor:  Finance | GPA: 3.16
 Relevant coursework includes C# Programming and SAP
+
 West Seneca Christian School, West Seneca, NY						Graduated 2014
 High School Diploma
 
 Fluent in Chinese and English
+
 LEADERSHIP
+
 Chinese in Business College Association, Price College of Business                                        May 2017 - Present
 Chair, Social Activity Events
 •	Managed all association events in order to recruitment future members for association
 •	Interacted with organization executive officers to establish organization goals and objectives
 •	Organize association events including internal, external, professional, traditional culture in order to gain attention among students. 
+
 Chair, Recruitment
 •	Recruitment future members in order to raise the size of association and keep the association moving on
 •	Arrange the timeline of events for each semester 
 •	Interacted with organization executive officers to recruitment the exact members
 
 EXPERIENCE
+
 OU Housing & Food, Norman, OK					                           May 2017 – November 2018
 Food Service Employee
 •	Utilized interpersonal skills to demonstrate customer service
@@ -41,27 +46,25 @@ Accountant
 •	Release salary to employees 
 
 HONORS AND ACTIVITIES
+
 •	Volunteer, Price College of Business Day of Service | Soonerthon | The Big Event
 •	Member of Delta Sigma Pi
 •	Price College Dean’s Honor Roll
 
 SKILLS
+
 Accept Challenges					Quick Learner
 Double Language Using					Critical Thinker
 Convey Feelings and Thought through Visual			Open-Minded
 Willing to work long hours continually until a tough problem is solved
 
 PROFESSIONAL SUMMARY
+
 Innovative and adaptable training and education professional seeking advanced position in a university
 setting. College Professor offering a wealth of knowledge in the development and implementation of
 educational technology tools and applications in the classroom.
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

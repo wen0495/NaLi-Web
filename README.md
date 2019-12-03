@@ -1,23 +1,30 @@
 ## Welcome to Na Li Pages
 
 Address: 730 Stinson St. Apt #16201, Norman, OK 
+
 Contact Infomation:(405) 532	-6469 • Na.Li-1@ou.edu
 
 
 EDUCATION
-University of Oklahoma, Norman, OK					  Expected December 2019
+
+University of Oklahoma, Norman, OK					 
+Expected December 2019
 Bachelor of Business Administration
-Major:  Management Information Systems | Minor:  Finance | GPA: 3.16
+Major:  Management Information Systems 
+Minor:  Finance 
+GPA: 3.16
 Relevant coursework includes C# Programming and SAP
 
-West Seneca Christian School, West Seneca, NY						Graduated 2014
+West Seneca Christian School, West Seneca, NY						
+Graduated 2014
 High School Diploma
 
 Fluent in Chinese and English
 
 LEADERSHIP
 
-Chinese in Business College Association, Price College of Business                                        May 2017 - Present
+Chinese in Business College Association, Price College of Business                                      
+May 2017 - Present
 Chair, Social Activity Events
 •	Managed all association events in order to recruitment future members for association
 •	Interacted with organization executive officers to establish organization goals and objectives
@@ -30,17 +37,20 @@ Chair, Recruitment
 
 EXPERIENCE
 
-OU Housing & Food, Norman, OK					                           May 2017 – November 2018
+OU Housing & Food, Norman, OK					                 
+May 2017 – November 2018
 Food Service Employee
 •	Utilized interpersonal skills to demonstrate customer service
 •	Communicated with customers to advise them regarding food selection
 
-ChengCai Education, AnYang, HeNan			                                     November 2016 – January 2017
+ChengCai Education, AnYang, HeNan			                          
+November 2016 – January 2017
 Education Private Tour
 •	Developed and taught lessons on relevant children’s books to promote students’ interest
 •	Communicated with Student’s parents to follow up their studies
 
-TangYin ShuRen School, AnYang, HeNan			                                                   July 2016 – August 2019
+TangYin ShuRen School, AnYang, HeNan			                                
+July 2016 – August 2019
 Accountant
 •	Manage and record company cash balance statement
 •	Release salary to employees 
@@ -53,9 +63,12 @@ HONORS AND ACTIVITIES
 
 SKILLS
 
-Accept Challenges					Quick Learner
-Double Language Using					Critical Thinker
-Convey Feelings and Thought through Visual			Open-Minded
+Accept Challenges				
+Quick Learner
+Double Language Using			
+Critical Thinker
+Convey Feelings and Thought through Visual		
+Open-Minded
 Willing to work long hours continually until a tough problem is solved
 
 PROFESSIONAL SUMMARY
@@ -66,12 +79,3 @@ educational technology tools and applications in the classroom.
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Na-Li-0318/NaLi-Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
